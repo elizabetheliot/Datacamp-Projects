@@ -1,1 +1,10 @@
-# Datacamp-Projects
+# DataCamp Projects
+
+### Python
+| Project | Description |
+| --- | --- |
+| `A New Era of Data Analysis in Baseball` | Use MLB's Statcast data to compare New York Yankees players Aaron Judge and Giancarlo Stanton. |
+| `Dr. Semmelweis and the discovery of Handwashing` | Reanalyze the data behind one of the most important discoveries of modern medicine: Handwashing. |
+| `Risk and Returns: The Sharpe Ratio` | Use pandas to calculate and compare profitability and risk of different investments using the Sharpe Ratio. |
+| `Who's Tweeting? Trump or Trudeau?` | Build a machine learning classifier that knows whether Trump or Trudeau is tweeting! . |
+| `The Hottest Topics in Machine Learning` | Use Natural Lanugage Processing on NIPS papers to uncover the trendiest topics in machine learning research. |
