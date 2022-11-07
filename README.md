@@ -19,3 +19,7 @@ My notebooks to DataCamp projects.
 | `Analyze International Debt Statistics` | Write SQL queries to answer interesting questions about international debt using data from The World Bank. |
 | `Analyze NYC Public School Test Result Scores` | Use summary statistics and filters to analyze test scores across New York City's public schools! |
 
+### R
+| Project | Description |
+| --- | --- |
+| `Rise and Fall of Programming Languages` | Analyze the relative popularity of programming languages over time based on Stack Overflow data. |
