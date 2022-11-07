@@ -23,3 +23,5 @@ My notebooks to DataCamp projects.
 | Project | Description |
 | --- | --- |
 | `Rise and Fall of Programming Languages` | Analyze the relative popularity of programming languages over time based on Stack Overflow data. |
+| `Visualizing COVID-19` | Visualize the rise of COVID-19 cases globally with ggplot2. |
+
