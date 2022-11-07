@@ -12,3 +12,8 @@ My notebooks to DataCamp projects.
 | `Risk and Returns: The Sharpe Ratio` | Use pandas to calculate and compare profitability and risk of different investments using the Sharpe Ratio. |
 | `Who's Tweeting? Trump or Trudeau?` | Build a machine learning classifier that knows whether Trump or Trudeau is tweeting! . |
 | `The Hottest Topics in Machine Learning` | Use Natural Lanugage Processing on NIPS papers to uncover the trendiest topics in machine learning research. |
+
+### SQL
+| Project | Description |
+| --- | --- |
+| `Analyze International Debt Statistics` | Write SQL queries to answer interesting questions about international debt using data from The World Bank. |
