@@ -2,7 +2,7 @@
 
 ![regular](https://user-images.githubusercontent.com/96036457/196856633-6d903315-1bfb-46e4-a9b8-a7ef31badebf.png)
 
-My notebooks to DataCamp projects.
+My notebooks for DataCamp projects.
 
 ### Python
 | Project | Description |
